@@ -1,0 +1,4 @@
+Em Python podemos fazer operações aritiméticas 
+Em Python podemos elaborar saudações às pessoas 
+Em Python podemos praticar toda nossa criatividade
+Em Python podemos dominar o mundo!
